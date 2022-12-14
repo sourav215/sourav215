@@ -1,12 +1,12 @@
  ### Hi there, I'm Sourav Jana 👋  
 
-<a href="https://portfolio-sourav.vercel.app">
+<a href="https://portfolio-sourav.vercel.app target="_blank"">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://portfolio-sourav.vercel.app" />
 </a>
-<a title="souravjana13196@gmail.com" href="mailto:souravjana13196@gmail.com">
+<a title="souravjana13196@gmail.com" href="mailto:souravjana13196@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="souravjana13196@gmail.com" />
 </a>
-<a href="https://www.linkedin.com/in/souravjana131/">
+<a href="https://www.linkedin.com/in/souravjana131/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/souravjana131/" />
 </a>
 
@@ -71,12 +71,12 @@
 
 
 <p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav215&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+<img alt="Sourav's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav215&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
 
 
-  <a href="https://github.com/ArjunSinghBhakuni?tab=repositories">
-    <img width="400" height="auto"  alt="Arjun's github stats" 
+  <a href="https://github.com/sourav215?tab=repositories">
+    <img width="400" height="auto"  alt="Sourav's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=sourav215&show_icons=true&theme=algolia&count_private=true" />
   </a>
   
