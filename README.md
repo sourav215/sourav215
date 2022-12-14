@@ -1,6 +1,6 @@
  ### Hi there, I'm Sourav Jana 👋  
 
-<a href="https://portfolio-sourav.vercel.app target="_blank"">
+<a href="https://portfolio-sourav.vercel.app" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://portfolio-sourav.vercel.app" />
 </a>
 <a title="souravjana13196@gmail.com" href="mailto:souravjana13196@gmail.com" target="_blank">
