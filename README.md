@@ -1,5 +1,5 @@
- ### Hi there, I'm Sourav Jana 👋  
-
+<h2 align="center">Hi there, I'm Sourav 👋 </h2> 
+<h1 align= "center">
 <a href="https://portfolio-sourav.vercel.app" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://portfolio-sourav.vercel.app" />
 </a>
@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/souravjana131/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/souravjana131/" />
 </a>
+ </h1>
 
 ---
 
