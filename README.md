@@ -13,11 +13,11 @@
 
 ---
 
-## I'm a Full Stack Web Developer and Life Long Learner!
+## I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 - 🌱 I’m currently Learning MERN Stack at Masai School.
-- 🌏 Looking to solve real-world problems.
+<!-- - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
-- 💬 Ask me about Java, Javascript, HTML, CSS, React, Redux, Nodejs, Npm.
+- 💬 Ask me about Java, Javascript, HTML, CSS, React, Redux, Nodejs. -->
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -61,14 +61,14 @@
 <br>
 
 
----
+<!-- ---
 
 ### Desktop Environment:
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
 
----
+--- -->
 
 
 <p display="flex" align="center">
