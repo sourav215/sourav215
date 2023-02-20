@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Sourav 👋 </h2> 
+<h1 align="center">Hi 👋 I'm Sourav Jana  </h1> 
 <h1 align= "center">
 <a href="https://portfolio-sourav.vercel.app" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://portfolio-sourav.vercel.app" />
