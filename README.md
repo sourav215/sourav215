@@ -14,7 +14,6 @@
 ---
 
 ## I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
-- 🌱 I’m currently Learning MERN Stack at Masai School.
 <!-- - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about Java, Javascript, HTML, CSS, React, Redux, Nodejs. -->
