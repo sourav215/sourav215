@@ -13,7 +13,7 @@
 
 ---
 
-## I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+## Software Developer with 1 year and 10 months of experience specializing in the MERN stack.
 <!-- - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about Java, Javascript, HTML, CSS, React, Redux, Nodejs. -->
