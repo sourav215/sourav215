@@ -13,10 +13,10 @@
 
 ---
 
-## Software Developer with 1 year and 10 months of experience specializing in the MERN stack.
+## Software Developer with 2 years of experience specializing in the MERN stack.
 <!-- - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
-- 💬 Ask me about Java, Javascript, HTML, CSS, React, Redux, Nodejs. -->
+- 💬 Ask me about NodeJs, MongoDB, PostgreSQL, ReactJs, NextJs. -->
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
